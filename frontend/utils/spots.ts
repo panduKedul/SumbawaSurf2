@@ -1,2 +1,2 @@
-// Re-export spots API for frontend use
-export { fetchSpotsFromDatabase, SURF_SPOTS } from '../../backend/api/spots';
+// Re-export spots data for frontend use
+export { SURF_SPOTS } from '../../backend/utils/spots';
